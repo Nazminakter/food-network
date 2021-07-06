@@ -1,0 +1,83 @@
+body{
+    margin: 0 auto;
+    font-family: 'Poppins', sans-serif;
+}
+.flxible-section{
+    display: flex;
+    margin-bottom: 100px;
+}
+.width-div{
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.width-div h1{
+    font-size: 50px;
+}
+.width-div h2{
+    color: gray;
+}
+.span{
+    color: orange;
+}
+.food-link{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(252, 184, 57),tomato);
+    padding: 5px 12px;
+    border-radius: 20px;
+    color: white;
+    font-size: 17px;
+    
+}
+.width-div img{
+    width: 80%;
+}
+.second-img{
+    background-image: url(images/shapes/7.png);
+    height: 400px;
+    padding-top: 80px;
+}
+.my-recipice{
+    color: gray;
+    text-align: center;
+    margin-bottom: 100px;
+}
+.my-recipice{
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.footer{
+    height: 90px;
+    width: 100%;
+    background-color: rgb(25, 25, 56);
+    text-align: center;
+    padding-top: 23px;
+    padding-bottom: 19px;
+}
+.footer h1{
+    color: gray;
+}
+.footer p{
+    color: white;
+    font-size: 10px;}
+.oparcity{
+    box-shadow: 10px 10px 35px gray;
+    border-radius: 10px;
+    margin-left: 1%;
+    
+}
+.img2{
+    text-align: center;
+    width: 320px;
+    margin-top: 20px;
+
+}
+.title{
+    text-align: justify;
+    margin-left: 8%;
+    margin-right: 8%;
+}
+.margin{
+    margin-right: 8%;
+    margin-left: 8%;
+}
